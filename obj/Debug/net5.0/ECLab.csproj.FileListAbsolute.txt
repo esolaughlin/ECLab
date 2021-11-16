@@ -1,0 +1,16 @@
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.csproj.AssemblyReference.cache
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.AssemblyInfoInputs.cache
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.AssemblyInfo.cs
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.csproj.CoreCompileInputs.cache
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.exe
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.deps.json
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.runtimeconfig.json
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.runtimeconfig.dev.json
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.dll
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ref\ECLab.dll
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\bin\Debug\net5.0\ECLab.pdb
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.dll
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ref\ECLab.dll
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.pdb
+C:\Users\erino\Documents\source\repos\MIS221\ECLab\obj\Debug\net5.0\ECLab.genruntimeconfig.cache
